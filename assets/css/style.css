@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: gray;
+}
+
+h4 {
+    color: gold;
+}
+
+.col-md-4 {
+    border: dashed rgb(218, 55, 55);
+}
+
+#lettersGuessed {
+    color: rgb(218, 55, 55);
+}
+
+#totalWins {
+    color: rgb(218, 55, 55);
+}
+
+#guessesLeft {
+    color: rgb(218, 55, 55);
+}
