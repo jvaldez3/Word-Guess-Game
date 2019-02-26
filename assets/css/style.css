@@ -1,9 +1,11 @@
 body {
-    background-color: black;
+    background-image: url("../images/harrypotterjpg.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 
 h1 {
-    color: gray;
+    color: rgb(218, 55, 55);
 }
 
 h4 {
